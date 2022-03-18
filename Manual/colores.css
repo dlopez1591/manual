@@ -1,0 +1,24 @@
+#azul{
+    color: blue;
+}
+#amarillo{
+    color: yellow;
+}
+#aquamarine{
+    color: aquamarine;
+}
+.rgb{
+    color: rgb(255, 99, 71);
+}
+#hex1{
+    color: #6a5acd;
+}
+#hex2{
+    color: #ee82ee;
+}
+.hsl{
+    color: hsl(39, 12%, 50%);
+}
+.hsl2{
+    color: hsl(9, 100%, 64%, 0.2);
+}
